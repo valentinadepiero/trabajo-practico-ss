@@ -12,7 +12,7 @@ Desarrollamos una FastAPI en Python que calcula parametros acusticos (ver [ISO 3
 
   Federico Gionco, 56901. $${\color{lightblue}Responsable \space de \space generacion \space de  \space senales}$$.
 
-  Eugenia Onnainty, legajo. $${\color{green}Responsable \space de \space documentacion}$$.
+  Eugenia Onnainty, 74462. $${\color{green}Responsable \space de \space documentacion}$$.
 
 - **$\color{white}\Huge{\textsf{Instrucciones de instalacion:}}$**
 
