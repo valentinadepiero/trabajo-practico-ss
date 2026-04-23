@@ -12,7 +12,7 @@ API REST para procesamiento y analisis de respuestas al impulso segun la norma I
 RIR-API es un proyecto educativo que implementa una API REST (FastAPI) con una cadena
 completa de procesamiento acustico: generacion de senales de excitacion, procesamiento
 de respuestas al impulso por bandas de octava y calculo de parametros acusticos
-(EDT, T20, T30) segun la norma ISO 3382-1.
+(EDT, T20, T30) segun la norma [ISO 3382](https://www.iso.org/obp/ui/en/#iso:std:iso:3382:-1:ed-1:v1:en).
 
 > **API de referencia**: Explorar la [documentacion interactiva de la API de la catedra](https://rir-api.onrender.com/docs) para entender la estructura de endpoints, schemas y respuestas esperadas.
 
@@ -25,7 +25,7 @@ de respuestas al impulso por bandas de octava y calculo de parametros acusticos
 
 ```bash
 # Clonar el repositorio
-git clone <URL-del-fork>
+git clone https://github.com/valentinadepiero/trabajo-practico-ss.git
 cd rir-api
 
 # Crear entorno virtual e instalar dependencias
