@@ -36,7 +36,7 @@ de respuestas al impulso por bandas de octava y calculo de parametros acusticos
 ```bash
 # Clonar el repositorio
 git clone https://github.com/valentinadepiero/trabajo-practico-ss.git
-cd rir-api
+cd trabajo-practico-ss
 
 # Crear entorno virtual e instalar dependencias
 uv venv
