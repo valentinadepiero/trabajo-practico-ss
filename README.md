@@ -74,7 +74,11 @@ An -->InS[Integral de Shchorder]
 An -->Reg[Regresion lineal]
 An -->Mlun[Metodo Lundeby]
 R --> Sch[Schemas]
-Sch -->Pydantic 
+Sch -->Pydantic
+
+style S fill: #c9c9c9
+style Sch fill: #c9c9c9
+style r fill: #c9c9c9
 ```
 
 ## Estructura del proyecto
