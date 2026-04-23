@@ -16,6 +16,16 @@ de respuestas al impulso por bandas de octava y calculo de parametros acusticos
 
 > **API de referencia**: Explorar la [documentacion interactiva de la API de la catedra](https://rir-api.onrender.com/docs) para entender la estructura de endpoints, schemas y respuestas esperadas.
 
+## Integrantes del grupo:
+ 
+  Dulcinea Bonet | Legajo: 81506. $${\color{magenta}Responsable \space de \space testing/CI}$$.
+
+  Valentina De Piero | Legajo: 72221. $${\color{yellow}Responsable \space de \space procesamiento}$$.
+
+  Federico Gionco | Legajo: 56901. $${\color{lightblue}Responsable \space de \space generacion \space de  \space senales}$$.
+
+  Eugenia Onnainty | Legajo: 74462. $${\color{green}Responsable \space de \space documentacion}$$.
+
 ## Requisitos previos
 
 - Python 3.12 o superior
