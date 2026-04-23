@@ -56,6 +56,16 @@ python -m app.main
 La API estara disponible en `http://localhost:8000`. Documentacion interactiva en:
 - Swagger UI: `http://localhost:8000/docs`
 - ReDoc: `http://localhost:8000/redoc`
+## Diagrama de estructura
+```mermaid
+graph LR
+Client --> R[Routers]
+R --> S[Services]
+S --> Gen[Generación]
+S --> Proc[Procesamiento]
+S --> An[Análisis]
+R --> Sch[Schemas]
+```
 
 ## Estructura del proyecto
 
