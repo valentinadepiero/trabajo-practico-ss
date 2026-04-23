@@ -66,7 +66,7 @@ Gen --> SS[Sine Sweep]
 Gen --> PN[Pink Noise]
 S --> Proc[Procesamiento]
 S --> An[Análisis]
-An --> Par[Parámetros acústicos ISO 3382]
+An --> Par[Parámetros acústicos]
 R --> Sch[Schemas]
 ```
 
