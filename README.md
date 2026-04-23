@@ -59,7 +59,7 @@ La API estara disponible en `http://localhost:8000`. Documentacion interactiva e
 ## Diagrama de estructura
 ```mermaid
 graph LR
-Client -->$${\color{magenta} R[Routers]$$
+Client --> R[Routers]
 R --> S[Services]
 S --> Gen[Generación]
 Gen --> SS[Sine Sweep]
