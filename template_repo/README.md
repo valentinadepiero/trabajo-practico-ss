@@ -16,7 +16,7 @@ de respuestas al impulso por bandas de octava y calculo de parametros acusticos
 
 > **API de referencia**: Explorar la [documentacion interactiva de la API de la catedra](https://rir-api.onrender.com/docs) para entender la estructura de endpoints, schemas y respuestas esperadas.
 
-## Integrantes del grupo:
+## Integrantes del grupo
  
   Dulcinea Bonet | Legajo: 81506. $${\color{magenta}Responsable \space de \space testing/CI}$$.
 
