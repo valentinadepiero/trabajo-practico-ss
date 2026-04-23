@@ -72,6 +72,7 @@ An --> Par[Parámetros acústicos]
 An -->Sua[Suavizado de señal]
 An -->InS[Integral de Shchorder]
 An -->Reg[Regresion lineal]
+An -->Mlun[Metedo Lundeby (Extra)]
 R --> Sch[Schemas]
 Sch -->Pydantic 
 ```
