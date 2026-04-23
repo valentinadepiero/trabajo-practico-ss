@@ -91,8 +91,8 @@ rir-api/
 
 ## Milestones
 
-### M0 — Setup del entorno
-**Fecha:** Semana 5
+### M0 — Setup del entorno | Arquitectura (El plano) 
+**Fecha:** Semana 5 (28 de abril de 2026)
 
 - [ ] Hacer fork del repositorio template.
 - [ ] Clonar el fork y verificar que el entorno se instala correctamente.
