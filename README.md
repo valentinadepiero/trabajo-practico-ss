@@ -102,15 +102,15 @@ rir-api/
 - [ ] Verificar que el CI funciona en GitHub Actions.
 
 ### M1 — Generacion de senales
-**Fecha:** Semana 8
+**Fecha:** Semana 8 (19 de mayo de 2026)
 
 - [ ] Implementar `generar_ruido_rosa()` en `app/services/pink_noise.py`.
 - [ ] Implementar `generar_sine_sweep()` en `app/services/sine_sweep.py`.
 - [ ] Implementar `reproducir_y_grabar()`.
 - [ ] Todos los tests de `test_generacion.py` deben pasar.
 
-### M2 — Procesamiento de senales
-**Fecha:** Semana 12
+### M2 — Procesamiento de senales (RI)
+**Fecha:** Semana 12 (16 de junio de 2026)
 
 - [ ] Implementar `cargar_audio()` en `app/services/signal_utils.py`.
 - [ ] Implementar `obtener_ri_desde_sweep()` en `app/services/signal_utils.py`.
@@ -119,8 +119,8 @@ rir-api/
 - [ ] Implementar `sintetizar_ri()` para validacion.
 - [ ] Todos los tests de `test_procesamiento.py` deben pasar.
 
-### M3 — API REST y analisis de parametros acusticos
-**Fecha:** Semana 15
+### M3 — API REST y analisis de parametros acusticos (Producto Final)
+**Fecha:** Semana 15 (7 de Julio de 2026)
 
 - [ ] Implementar `integral_schroeder()` en `app/services/acoustic_parameters.py`.
 - [ ] Implementar `regresion_lineal()` en `app/services/acoustic_parameters.py`.
