@@ -76,9 +76,14 @@ An -->Mlun[Metodo Lundeby]
 R --> Sch[Schemas]
 Sch -->Pydantic
 
-style S fill: #c9c9c9
-style Sch fill: #c9c9c9
-style R fill: #c9c9c9
+style S fill: #857979
+style Sch fill: #857979
+style R fill: #857979
+style Gen fill: #c9c9c9
+style Proc fill: #c9c9c9
+style An fill: #c9c9c9
+
+
 ```
 
 ## Estructura del proyecto
