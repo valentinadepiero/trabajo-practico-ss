@@ -59,9 +59,9 @@ La API estara disponible en `http://localhost:8000`. Documentacion interactiva e
 ## Diagrama de estructura
 ```mermaid
 graph LR
-Client --> R[Routers<br><small>ENDPOINTS</small>]
-R --> S[Services<br><small>LOGICA</small>]
-S --> Gen[Generación]
+Client --> R[ROUTERS<br><small>Endpoints</small>]
+R --> S[SERVICES<br><small>Logica</small>]
+S --> Gen[#1<br>Generación]
 Gen --> SS[Sine Sweep]
 Gen --> PN[Pink Noise]
 Gen --> Rec[Reproducir y Grabar]
