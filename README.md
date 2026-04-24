@@ -81,7 +81,6 @@ style R fill: #857979
 style Gen fill: #a69999
 style Proc fill: #a69999
 style An fill: #a69999
-style Pyd fill: #a69999
 style Par fill: #turquoise
 style SS fill: #AFA3A3
 style PN fill: #AFA3A3
