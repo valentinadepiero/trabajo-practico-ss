@@ -82,15 +82,15 @@ style Gen fill: #a69999
 style Proc fill: #a69999
 style An fill: #a69999
 style Par fill: #turquoise
-style SS fill: #AFA3A3
-style PN fill: #AFA3A3
-style Rec fill: #AFA3A3
-style F fill: #AFA3A3
-style Par fill: #AFA3A3
-style Sua fill: #AFA3A3
-style InS fill: #AFA3A3
-style Reg fill: #AFA3A3
-style Mlun fill: #AFA3A3
+style SS fill: #C7B3B3
+style PN fill: #C7B3B3
+style Rec fill: #C7B3B3
+style F fill: #C7B3B3
+style Par fill: #C7B3B3
+style Sua fill: #C7B3B3
+style InS fill: #C7B3B3
+style Reg fill: #C7B3B3
+style Mlun fill: #C7B3B3
 
 ```
 
