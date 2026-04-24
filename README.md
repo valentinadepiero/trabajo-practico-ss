@@ -82,6 +82,7 @@ style R fill: #857979
 style Gen fill: #c9c9c9
 style Proc fill: #c9c9c9
 style An fill: #c9c9c9
+style Par fill: #turquoise
 
 
 ```
