@@ -91,6 +91,7 @@ style Sua fill: #C7B3B3
 style InS fill: #C7B3B3
 style Reg fill: #C7B3B3
 style Mlun fill: #C7B3B3
+style Con fill: #C7B3B3
 
 ```
 
