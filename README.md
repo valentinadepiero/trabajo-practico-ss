@@ -14,7 +14,6 @@ completa de procesamiento acustico: generacion de senales de excitacion, procesa
 de respuestas al impulso por bandas de octava y calculo de parametros acusticos
 (EDT, T20, T30) segun la norma [ISO 3382](https://www.iso.org/obp/ui/en/#iso:std:iso:3382:-1:ed-1:v1:en).
 
-> **API de referencia**: Explorar la [documentacion interactiva de la API de la catedra](https://rir-api.onrender.com/docs) para entender la estructura de endpoints, schemas y respuestas esperadas.
 
 ## Integrantes del grupo
  
@@ -87,7 +86,6 @@ flowchart LR
     style Reg fill: #AFA3A3,color:#000000
     style Mlun fill: #AFA3A3,color:#000000
     style s1 fill:transparent,stroke:transparent,color:transparent
-
 ```
 
 ## Estructura del proyecto
@@ -123,8 +121,7 @@ rir-api/
 ```
 ## Branching Strategy
 
-La estrategia armada para el proyecto 
-
+La estrategia armada para el proyecto es utilizar tres tipos de branches. En primer lugar, MAIN donde estara la version estable del código. Luego TESTING donde se empleara como anteproyecto/borrador del código total. Por último, FEATURE donde realizaremos Branches segun las funcionalidades y conflictos que se generen a lo largo del proyecto, para seguidamente ser aprobados por el resto de los integrantes para enviarlos a TESTING y posteriormente al MAIN.
 
 ## Milestones
 
