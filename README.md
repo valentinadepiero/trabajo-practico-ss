@@ -124,7 +124,6 @@ rir-api/
 │   ├── test_procesamiento.py          # Tests de procesamiento (M2)
 │   ├── test_analisis.py               # Tests de analisis (M3)
 │   └── test_api.py                    # Tests de endpoints (M3)
-│
 ├── docs/                              # Documentacion
 ├── .github/workflows/ci.yml           # Integracion continua
 ├── pyproject.toml                     # Configuracion del proyecto
