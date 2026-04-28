@@ -29,6 +29,11 @@ de respuestas al impulso por bandas de octava y calculo de parametros acusticos
 
 - Python 3.12 o superior
 - [uv](https://docs.astral.sh/uv/) (gestor de paquetes y entornos virtuales)
+- httpx y fastapi instalados:
+```bash
+uv add --dev httpx
+uv add --dev fastapi
+```
 
 ## Instalacion
 
@@ -38,7 +43,7 @@ git clone https://github.com/valentinadepiero/trabajo-practico-ss.git
 cd trabajo-practico-ss
 
 # Crear entorno virtual e instalar dependencias
-uv venv
+uv sync
 uv pip install -e ".[dev]"
 ```
 
