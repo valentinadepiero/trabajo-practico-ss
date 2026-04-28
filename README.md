@@ -109,7 +109,7 @@ rir-api/
 │   │   ├── analisis.py                   # Endpoints de analisis (M3)
 │   │   └── utils.py                      # Endpoints de utilidades (M3)
 │   ├── schemas/
-│   │   └── ...                    # Modelos Pydantic de request/response
+│   │   └── ...                           # Modelos Pydantic de request/response
 │   └── services/
 │       ├── generación/
 │       │   ├── pink_noise.py             # Generacion de ruido rosa (M1)
